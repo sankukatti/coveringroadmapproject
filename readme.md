@@ -5,3 +5,6 @@
 
 ## Initialize the project with an npm package
 *npm init y*
+
+## Start application
+*npm run start*
