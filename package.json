@@ -1,0 +1,11 @@
+{
+  "name": "coveringroadmapproject",
+  "version": "1.0.0",
+  "description": "This a project to use test and learn full-stack development. Following roadmap.sh website's full-stack roadmap.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
